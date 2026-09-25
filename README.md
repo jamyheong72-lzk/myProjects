@@ -65,8 +65,8 @@ Markdown
 # Personal Task Manager
 
 Project Code: WST21-PM-2026-SF  
-Student Name: [MABINI JUNBERT IAN]  
-Course & Year: [BSIT-2 SEC.8]  
+Student Name: [OBIDA JAY-R]  
+Course & Year: [BSIT-2 SEC.5]  
 Database Used: MySQL  
 
 ## Features
