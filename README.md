@@ -64,14 +64,31 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Markdown
 # Personal Task Manager
 
-Project Code: WST21-PM-2026-SF  
-Student Name: [OBIDA JAY-R]  
-Course & Year: [BSIT-2 SEC.5]  
-Database Used: MySQL  
+# Personal Task Manager
+
+## Project Code
+
+WST21-PM-2026-SF
+
+## Student Name
+
+Jay-r Obida
+
+## Course & Year
+
+BSIT 2nd Year
+
+## Database Used
+
+MySQL
 
 ## Features
+
 - Add Task
 - View Tasks
 - Edit Task
 - Delete Task
 - Update Status
+=======
+# project
+<img width="1210" height="745" alt="image" src="https://github.com/user-attachments/assets/00eb9343-5d3c-431a-87b4-da821d6e9fce" />
