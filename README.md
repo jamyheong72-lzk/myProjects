@@ -91,4 +91,3 @@ MySQL
 - Update Status
 =======
 # project
-<img width="1210" height="745" alt="image" src="https://github.com/user-attachments/assets/00eb9343-5d3c-431a-87b4-da821d6e9fce" />
